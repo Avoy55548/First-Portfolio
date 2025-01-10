@@ -7,6 +7,11 @@
 .text-primary{
     color: #FD6E0A;
 }
+main{
+    max-width: 1140px;
+    margin: 0 , auto;
+}
+
 .Nav-title{
     font-weight: 800;
     font-size: 45px;
@@ -36,6 +41,7 @@ nav li a{
 .dark-2{
     color: #474747;
 }
+
 
 .btn-primary{
 
@@ -78,4 +84,24 @@ nav li a{
     background-image: url('../images/developer.png'), url('../images/header_bg.png') ;
     background-repeat: no-repeat;
     background-position: top left, bottom right;
+}
+/* about me */
+.section-title{
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+}
+
+.section-desciption{
+    font-size: 18px;
+    color: #757575;
+}
+
+.secondary-bg{
+    background-color: #fff8f3;
+}
+
+.about{
+     border-radius: 10px;
+     padding: 130px 150px;
 }
