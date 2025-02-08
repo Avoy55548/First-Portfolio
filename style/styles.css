@@ -114,5 +114,6 @@ nav li a {
 @media screen and (max-width: 576px) {
   .header secondary-bg {
     flex-direction: column;
+    background-color: tomato;
   }
 }
